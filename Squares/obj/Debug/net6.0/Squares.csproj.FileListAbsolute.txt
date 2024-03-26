@@ -1,0 +1,14 @@
+C:\Users\n.lysikov\source\repos\Squares\Squares\bin\Debug\net6.0\Squares.exe
+C:\Users\n.lysikov\source\repos\Squares\Squares\bin\Debug\net6.0\Squares.deps.json
+C:\Users\n.lysikov\source\repos\Squares\Squares\bin\Debug\net6.0\Squares.runtimeconfig.json
+C:\Users\n.lysikov\source\repos\Squares\Squares\bin\Debug\net6.0\Squares.dll
+C:\Users\n.lysikov\source\repos\Squares\Squares\bin\Debug\net6.0\Squares.pdb
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\Squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\Squares.AssemblyInfoInputs.cache
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\Squares.AssemblyInfo.cs
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\Squares.csproj.CoreCompileInputs.cache
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\Squares.dll
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\refint\Squares.dll
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\Squares.pdb
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\Squares.genruntimeconfig.cache
+C:\Users\n.lysikov\source\repos\Squares\Squares\obj\Debug\net6.0\ref\Squares.dll
